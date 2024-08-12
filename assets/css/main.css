@@ -11,10 +11,7 @@
     flex-direction: column;
 }
 /*--------------------------------------- Header Styles ---------------------------------------*/
-header {
-    min-height: 15vh;
-    background-color: blueviolet;
-}
+
 /*--------------------------------------- Main Styles -----------------------------------------*/
 main {
     flex-grow: 1;
